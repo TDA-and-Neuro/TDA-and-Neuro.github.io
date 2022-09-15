@@ -1,0 +1,51 @@
+I"™<p>The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this <a href="https://youtu.be/Z_M8R88wjCo">introduction video</a> for a quick overview. Here is the <a href="syllabus.pdf">syllabus</a> for the course and is an <a href="https://youtu.be/4YcM8oXAm28">introduction to the team</a> for the course.</p>
+
+<p>More in-depth details on course topics can be found in the <a href="syllabus.pdf">syllabus</a>. Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.</p>
+
+<h3 id="prerequisites">Prerequisites</h3>
+<p>Students should be familiar with the following concepts:</p>
+<ol>
+  <li>Linear Algebra:
+    <ul>
+      <li>Vector spaces, basis of a vector space, span of a set of elements. Sub-vector space. Direct sum.</li>
+      <li>Linear maps between vector spaces.</li>
+      <li>Dimension of a vector space.</li>
+      <li>Images and Kernels of linear maps.</li>
+      <li>Matrices, and matrix manipulations.</li>
+      <li>See <a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy</a> lessons for a review of these topics.</li>
+    </ul>
+  </li>
+  <li>Coding:
+    <ul>
+      <li>Basic familiarity with Matlab.</li>
+      <li>Foundational concepts such as if/else statements and for loops.</li>
+      <li>See the <a href="https://web.eecs.umich.edu/~aey/eecs451/matlab.pdf">Matlab tutorial</a> here.</li>
+    </ul>
+  </li>
+  <li>Other Concepts:
+    <ul>
+      <li>Definition of a metric space. Basic examples, familiarity with these concepts.</li>
+      <li>Inner products and norms.</li>
+      <li>See <a href="http://www-history.mcs.st-and.ac.uk/~john/MT4522/Lectures/L5.html">this</a> lecture for more details.</li>
+    </ul>
+  </li>
+  <li>Other Useful but non-Prerequisite Topics:
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Smith_normal_form">Normal forms</a> and <a href="https://en.wikipedia.org/wiki/Gaussian_elimination">Gaussian elimination</a>.</li>
+      <li>Basics of graph theory:
+        <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Graph_theory">Definition of a graph</a>.</li>
+          <li><a href="https://en.wikipedia.org/wiki/Component_(graph_theory)">Connected components</a>.</li>
+        </ul>
+      </li>
+      <li>Basic concepts about <a href="https://en.wikipedia.org/wiki/Cluster_analysis">clustering</a>.</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="required-software">Required Software</h4>
+<p>JavaPlex must be installed and students should start running the tutorial before the first day of class. The main interface for JavaPlex is Matlab. The JavaPlex software can be found <a href="http://appliedtopology.github.io/javaplex/">here</a>. The tutorial can be found at <a href="https://github.com/appliedtopology/javaplex/wiki/Tutorial">JavaPlex tutorial</a>. Matlab can be downloaded from the <a href="https://www.mathworks.com/products/matlab.html">Matlab website</a>.</p>
+
+<h3 id="acknowledgements">Acknowledgements</h3>
+<p>This course was developed by Nate Clause, Alex McCleary, Facundo MÃ©moli, and Yusu Wang. Funding for this course is provided by NSF-IIS-1901360 and NSF-CCF-1839358.</p>
+:ET
