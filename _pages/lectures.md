@@ -42,6 +42,34 @@ Simplicial complexes, simplicial maps, filtrations, and computations.
 
 The theory and computation of simplicial homology.
 
+1. [Lecture part 1](https://youtu.be/jYckBwhAYFs), simplicial homology
+2. [Lecture part 2](https://youtu.be/XJvkc3FAUNw), betti numbers
+3. [Lecture part 3](https://youtu.be/8qQwDGHfbIE), computing homology
 1. [Recitation part 1](https://youtu.be/6_rQQY62Cxo), review and examples
 2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
 3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
+
+**Week 4: Persistent Homology**
+
+1. [Lecture part 1](https://youtu.be/7uPD5QtbSYI), persistent homology
+2. [Lecture part 2](https://youtu.be/mbBsLek0b2o), the persistence algorithm
+3. [Recitation part 1](https://youtu.be/__GA7GQdK0A)
+4. [Recitation part 2](https://youtu.be/6JkzmMipnqc)
+
+**Week 5: Speeding Up Persistent Homology**
+
+1. [Lecture part 1](https://youtu.be/piriuaiBE1M), speeding up persistent homology
+2. [Lecture part 2](https://youtu.be/6kQSG_qchIU), subsampling
+3. [Recitation part 1](https://youtu.be/3iNh-skAHgg)
+4. [Recitation part 2](https://youtu.be/eAPS4EVgCTM)
+
+**Week 6: Theoretical Foundations of Persistent Homology**
+
+1. [Recitation part 1](https://youtu.be/Q-5ruUQ8cQI)
+2. [Recitation part 2](https://youtu.be/dlMj9k9QWsk)
+
+**Week 7: Extensions of Persistent Homology**
+
+1. [Recitation part 1](https://youtu.be/5mPJqLDhHBo)
+2. [Recitation part 2](https://youtu.be/7qi_TMDYk8M)
+3. [Recitation part 3](https://youtu.be/I1DBGED1fvE)

@@ -6,7 +6,6 @@ permalink: /
 profile:
   align: right
   image: photo.png
-  caption: Picture from
   image_circular: false # crops the image to make it circular
 
 

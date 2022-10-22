@@ -1,4 +1,4 @@
-I"Ä<p>Every project has a beautiful feature showcase page.
+I"Ž<p>Every project has a beautiful feature showcase page.
 Itâ€™s easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.</p>
 
@@ -20,7 +20,7 @@ img: /assets/img/12.jpg
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -34,7 +34,7 @@ img: /assets/img/12.jpg
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/3.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/3.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -48,7 +48,7 @@ img: /assets/img/12.jpg
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -67,7 +67,7 @@ img: /assets/img/12.jpg
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -91,7 +91,7 @@ You describe how you toiled, sweated, <em>bled</em> for your project, and thenâ€
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/6.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/6.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -105,7 +105,7 @@ You describe how you toiled, sweated, <em>bled</em> for your project, and thenâ€
     
 
     <!-- Fallback to the original file -->
-    <img src="/al-folio/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
