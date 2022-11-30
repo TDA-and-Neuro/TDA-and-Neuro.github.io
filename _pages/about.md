@@ -33,11 +33,11 @@ Students should be familiar with the following concepts:
         - [Definition of a graph](https://en.wikipedia.org/wiki/Graph_theory).
         - [Connected components](https://en.wikipedia.org/wiki/Component_(graph_theory)).
     - Basic concepts about [clustering](https://en.wikipedia.org/wiki/Cluster_analysis).
-    
+
 #### Required Software
 JavaPlex must be installed and students should start running the tutorial before the first day of class. The main interface for JavaPlex is Matlab. The JavaPlex software can be found [here](http://appliedtopology.github.io/javaplex/). The tutorial can be found at [JavaPlex tutorial](https://github.com/appliedtopology/javaplex/wiki/Tutorial). Matlab can be downloaded from the [Matlab website](https://www.mathworks.com/products/matlab.html).
 
 
 
 ### Acknowledgements
-This course was developed by Nate Clause, Alex McCleary, Facundo M&eacute;moli, and Yusu Wang. Funding for this course is provided by NSF-IIS-1901360 and NSF-CCF-1839358.
+This course was developed by [Nate Clause](https://math.osu.edu/people/clause.15), [Alex McCleary](https://www.alexmccleary.org), [Facundo M&eacute;moli](http://facundo-memoli.org), and [Yusu Wang](http://yusu.belkin-wang.org). Funding for this course is provided by [NSF-IIS-1901360](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901360) and [NSF-CCF-1839358](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839358).
