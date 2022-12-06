@@ -17,4 +17,4 @@ In recent years, ideas from topological data analysis (TDA) have been increasing
 
 More in-depth details on course topics can be found in the syllabus (link to syllabus). Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.
 
-We gratefully acknowledge NSF grants NSF-IIS-1901360 and NSF-CCF-1839358 for providing funding for this course.
+We gratefully acknowledge NSF grants [NSF-IIS-1901360](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901360) and [NSF-CCF-1839358](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839358) for providing funding for this course.
