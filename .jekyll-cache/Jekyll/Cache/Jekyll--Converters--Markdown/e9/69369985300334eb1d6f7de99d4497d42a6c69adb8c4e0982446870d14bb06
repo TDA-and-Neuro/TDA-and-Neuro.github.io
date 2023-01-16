@@ -1,0 +1,73 @@
+I"é<p><strong>Week 0: Introduction</strong></p>
+
+<p>An introduction to the course including topics to be covered, expectations of students, basics of topology, and linear algebra review.</p>
+
+<ol>
+  <li><a href="https://youtu.be/ErUih7uJaZg">Lecture part 1</a>, course overview</li>
+  <li><a href="https://youtu.be/rga-Y9IRy1s">Lecture part 2</a>, intro to topology</li>
+  <li><a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec0.pdf">Slides</a></li>
+  <li><a href="https://youtu.be/EVdyZB-u13U">Recitation part 1</a>, vector spaces review</li>
+  <li><a href="https://youtu.be/yAF3JQjTfxs">Recitation part 2</a>, linear transformations review</li>
+  <li><a href="https://youtu.be/lMPyVhYWbW0">Recitation part 3</a>, quotient spaces review</li>
+  <li><a href="https://youtu.be/IkSVOSWo2bc">Recitation part 4</a>, basic linear algebra in MATLAB</li>
+</ol>
+
+<p><strong>Week 1: Topology</strong></p>
+
+<p>The basics of topology including topological spaces, continuous maps, and metric spaces.</p>
+
+<ol>
+  <li><a href="https://youtu.be/yaxsRzRs87c">Lecture part 1</a>, topological spaces</li>
+  <li><a href="https://youtu.be/K_3ZN9V5CI8">Lecture part 2</a>, continuous maps</li>
+  <li><a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec1.pdf">Slides</a></li>
+  <li><a href="https://youtu.be/IjAIQo_rc5E">Recitation part 1</a>, intro to metric spaces</li>
+  <li><a href="https://youtu.be/LndONFc99pQ">Recitation part 2</a>, metric spaces in practice</li>
+</ol>
+
+<!-- **Week 2: Simplicial Complexes**
+
+Simplicial complexes, simplicial maps, filtrations, and computations.
+
+1. [Lecture part 1](https://youtu.be/jR5OR05xYDY), simplicial complexes
+2. [Lecture part 2](https://youtu.be/3YdbBVeBN3c), simplicial maps
+3. [Lecture part 3](https://youtu.be/_-lE35xgV4o), Rips and Cech complexes
+4. [Slides][lec2.pdf]
+5. [Recitation part 1](https://youtu.be/nvpN_w4pK3E), simplicial complexes and examples
+6. [Recitation part 2](https://youtu.be/nvpN_w4pK3E), intro to JavaPlex and simplicial complexes in MATLAB
+
+**Week 3: Simplicial Homology**
+
+The theory and computation of simplicial homology.
+
+1. [Lecture part 1](https://youtu.be/jYckBwhAYFs), simplicial homology
+2. [Lecture part 2](https://youtu.be/XJvkc3FAUNw), betti numbers
+3. [Lecture part 3](https://youtu.be/8qQwDGHfbIE), computing homology
+1. [Recitation part 1](https://youtu.be/6_rQQY62Cxo), review and examples
+2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
+3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
+
+**Week 4: Persistent Homology**
+
+1. [Lecture part 1](https://youtu.be/7uPD5QtbSYI), persistent homology
+2. [Lecture part 2](https://youtu.be/mbBsLek0b2o), the persistence algorithm
+3. [Recitation part 1](https://youtu.be/__GA7GQdK0A)
+4. [Recitation part 2](https://youtu.be/6JkzmMipnqc)
+
+**Week 5: Speeding Up Persistent Homology**
+
+1. [Lecture part 1](https://youtu.be/piriuaiBE1M), speeding up persistent homology
+2. [Lecture part 2](https://youtu.be/6kQSG_qchIU), subsampling
+3. [Recitation part 1](https://youtu.be/3iNh-skAHgg)
+4. [Recitation part 2](https://youtu.be/eAPS4EVgCTM)
+
+**Week 6: Theoretical Foundations of Persistent Homology**
+
+1. [Recitation part 1](https://youtu.be/Q-5ruUQ8cQI)
+2. [Recitation part 2](https://youtu.be/dlMj9k9QWsk)
+
+**Week 7: Extensions of Persistent Homology**
+
+1. [Recitation part 1](https://youtu.be/5mPJqLDhHBo)
+2. [Recitation part 2](https://youtu.be/7qi_TMDYk8M)
+3. [Recitation part 3](https://youtu.be/I1DBGED1fvE) -->
+:ET
