@@ -11,7 +11,7 @@ An introduction to the course including topics to be covered, expectations of st
 
 1. [Lecture part 1](https://youtu.be/ErUih7uJaZg), course overview
 2. [Lecture part 2](https://youtu.be/rga-Y9IRy1s), intro to topology
-3. [Slides](lec0.pdf)
+3. [Slides](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec0.pdf)
 4. [Recitation part 1](https://youtu.be/EVdyZB-u13U), vector spaces review
 5. [Recitation part 2](https://youtu.be/yAF3JQjTfxs), linear transformations review
 6. [Recitation part 3](https://youtu.be/lMPyVhYWbW0), quotient spaces review
@@ -23,7 +23,7 @@ The basics of topology including topological spaces, continuous maps, and metric
 
 1. [Lecture part 1](https://youtu.be/yaxsRzRs87c), topological spaces
 2. [Lecture part 2](https://youtu.be/K_3ZN9V5CI8), continuous maps
-3. [Slides](lec1.pdf)
+3. [Slides](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec1.pdf)
 4. [Recitation part 1](https://youtu.be/IjAIQo_rc5E), intro to metric spaces
 5. [Recitation part 2](https://youtu.be/LndONFc99pQ), metric spaces in practice
 
