@@ -10,6 +10,11 @@ The goal for this course is for students to become proficient in techniques from
 
 More in-depth details on course topics can be found in the [syllabus](syllabus.pdf). Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.
 
+### Office Hours
+Alex McCleary will be offering office hours on Tuesdays from 1 to 2 and Wednesdays from 10 to 11 both in person and over zoom. Here is the [zoom link](https://osu.zoom.us/j/94770708980?pwd=L0VuazVabVhlaStRUlpWWHYrSDhidz09). To meet in person please come to math tower 546.
+
+Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and online.
+
 ### Prerequisites
 Students should be familiar with the following concepts:
 1. Linear Algebra:
