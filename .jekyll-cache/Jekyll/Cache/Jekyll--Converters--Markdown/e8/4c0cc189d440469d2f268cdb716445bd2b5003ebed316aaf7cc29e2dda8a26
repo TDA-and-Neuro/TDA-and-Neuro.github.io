@@ -1,6 +1,11 @@
-I"Ø<p>The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this <a href="https://youtu.be/Z_M8R88wjCo">introduction video</a> for a quick overview. Here is the <a href="syllabus.pdf">syllabus</a> for the course and is an <a href="https://youtu.be/4YcM8oXAm28">introduction to the team</a> for the course.</p>
+I"©<p>The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this <a href="https://youtu.be/Z_M8R88wjCo">introduction video</a> for a quick overview. Here is the <a href="syllabus.pdf">syllabus</a> for the course and is an <a href="https://youtu.be/4YcM8oXAm28">introduction to the team</a> for the course.</p>
 
 <p>More in-depth details on course topics can be found in the <a href="syllabus.pdf">syllabus</a>. Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.</p>
+
+<h3 id="office-hours">Office Hours</h3>
+<p>Alex McCleary will be offering office hours on Tuesdays from 1 to 2 and Wednesdays from 10 to 11 both in person and over zoom. Here is the <a href="https://osu.zoom.us/j/94770708980?pwd=L0VuazVabVhlaStRUlpWWHYrSDhidz09">zoom link</a>. To meet in person please come to math tower 546.</p>
+
+<p>Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and online.</p>
 
 <h3 id="prerequisites">Prerequisites</h3>
 <p>Students should be familiar with the following concepts:</p>
