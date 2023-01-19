@@ -12,10 +12,10 @@ An introduction to the course including topics to be covered, expectations of st
 1. [Lecture part 1](https://youtu.be/ErUih7uJaZg), course overview
 2. [Lecture part 2](https://youtu.be/rga-Y9IRy1s), intro to topology
 3. [Slides](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec0.pdf)
-4. [Recitation part 1](https://youtu.be/EVdyZB-u13U), vector spaces review
-5. [Recitation part 2](https://youtu.be/yAF3JQjTfxs), linear transformations review
-6. [Recitation part 3](https://youtu.be/lMPyVhYWbW0), quotient spaces review
-7. [Recitation part 4](https://youtu.be/IkSVOSWo2bc), basic linear algebra in MATLAB
+4. [Recitation part 1](https://youtu.be/bbSK2z1spfA), vector spaces review
+5. [Recitation part 2](https://youtu.be/V4UpCdK5iQc), linear transformations review
+6. [Recitation part 3](https://youtu.be/oY-G0fyNm1Y), quotient spaces review
+7. [Recitation part 4](https://youtu.be/7xlQy-f7tG4), basic linear algebra in MATLAB
 
 **Week 1: Topology**
 
