@@ -27,6 +27,8 @@ The basics of topology including topological spaces, continuous maps, and metric
 4. [Recitation part 1](https://youtu.be/IjAIQo_rc5E), intro to metric spaces
 5. [Recitation part 2](https://youtu.be/LndONFc99pQ), metric spaces in practice
 
+[Exercise set 1](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/exercises/TDA%2BNeuro%20Exercise%20Set%201.pdf)
+
 <!-- **Week 2: Simplicial Complexes**
 
 Simplicial complexes, simplicial maps, filtrations, and computations.
