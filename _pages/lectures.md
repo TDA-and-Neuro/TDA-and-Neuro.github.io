@@ -29,7 +29,8 @@ The basics of topology including topological spaces, continuous maps, and metric
 
 [Exercise set 1](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/exercises/TDA%2BNeuro%20Exercise%20Set%201.pdf)
 
-<!-- **Week 2: Simplicial Complexes**
+
+**Week 2: Simplicial Complexes**
 
 Simplicial complexes, simplicial maps, filtrations, and computations.
 
@@ -51,7 +52,7 @@ The theory and computation of simplicial homology.
 2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
 3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
 
-**Week 4: Persistent Homology**
+<!--**Week 4: Persistent Homology**
 
 1. [Lecture part 1](https://youtu.be/7uPD5QtbSYI), persistent homology
 2. [Lecture part 2](https://youtu.be/mbBsLek0b2o), the persistence algorithm
