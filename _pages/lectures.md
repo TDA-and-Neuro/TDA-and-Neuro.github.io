@@ -27,7 +27,7 @@ The basics of topology including topological spaces, continuous maps, and metric
 4. [Recitation part 1](https://youtu.be/IjAIQo_rc5E), intro to metric spaces
 5. [Recitation part 2](https://youtu.be/LndONFc99pQ), metric spaces in practice
 
-<!-- **Week 2: Simplicial Complexes**
+**Week 2: Simplicial Complexes**
 
 Simplicial complexes, simplicial maps, filtrations, and computations.
 
@@ -49,7 +49,7 @@ The theory and computation of simplicial homology.
 2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
 3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
 
-**Week 4: Persistent Homology**
+<!--**Week 4: Persistent Homology**
 
 1. [Lecture part 1](https://youtu.be/7uPD5QtbSYI), persistent homology
 2. [Lecture part 2](https://youtu.be/mbBsLek0b2o), the persistence algorithm

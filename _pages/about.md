@@ -6,14 +6,14 @@ nav: true
 nav_order: 1
 ---
 
-The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this [introduction video](https://youtu.be/Z_M8R88wjCo) for a quick overview. Here is the [syllabus](syllabus.pdf) for the course and is an [introduction to the team](https://youtu.be/4YcM8oXAm28) for the course.
+The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this [introduction video](https://youtu.be/Z_M8R88wjCo) for a quick overview. Here is the [syllabus](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/main.pdf) for the course and here is an [introduction to the team](https://youtu.be/TlNVGFagPxU).
 
-More in-depth details on course topics can be found in the [syllabus](syllabus.pdf). Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.
+More in-depth details on course topics can be found in the [syllabus](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/main.pdf). Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.
 
 ### Office Hours
 Alex McCleary will be offering office hours on Tuesdays from 1 to 2 and Wednesdays from 10 to 11 both in person and over zoom. Here is the [zoom link](https://osu.zoom.us/j/94770708980?pwd=L0VuazVabVhlaStRUlpWWHYrSDhidz09). To meet in person please come to math tower 546.
 
-Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and online.
+Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and online. To meet in person please come to math tower 549.
 
 ### Prerequisites
 Students should be familiar with the following concepts:
