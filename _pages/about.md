@@ -13,7 +13,7 @@ More in-depth details on course topics can be found in the [syllabus](https://gi
 ### Office Hours
 Alex McCleary will be offering office hours on Tuesdays from 1 to 2 and Wednesdays from 10 to 11 both in person and over zoom. Here is the [zoom link](https://osu.zoom.us/j/94770708980?pwd=L0VuazVabVhlaStRUlpWWHYrSDhidz09). To meet in person please come to math tower 546.
 
-Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and online. To meet in person please come to math tower 549.
+Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and over zoom. Here is the [zoom link](https://osu.zoom.us/j/94933302515?pwd=RE02N1daODVCazhMU3VwcnQ2TnFZZz09). To meet in person please come to math tower 549.
 
 ### Prerequisites
 Students should be familiar with the following concepts:
