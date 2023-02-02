@@ -38,8 +38,8 @@ Simplicial complexes, simplicial maps, filtrations, and computations.
 2. [Lecture part 2](https://youtu.be/3YdbBVeBN3c), simplicial maps
 3. [Lecture part 3](https://youtu.be/_-lE35xgV4o), Rips and Cech complexes
 4. [Slides][lec2.pdf]
-5. [Recitation part 1](https://youtu.be/nvpN_w4pK3E), simplicial complexes and examples
-6. [Recitation part 2](https://youtu.be/nvpN_w4pK3E), intro to JavaPlex and simplicial complexes in MATLAB
+5. [Recitation part 1](https://youtu.be/Wz0wYwR67OA), simplicial complexes and examples
+6. [Recitation part 2](https://youtu.be/mNOuL3DAb5U), intro to JavaPlex and simplicial complexes in MATLAB
 
 **Week 3: Simplicial Homology**
 
