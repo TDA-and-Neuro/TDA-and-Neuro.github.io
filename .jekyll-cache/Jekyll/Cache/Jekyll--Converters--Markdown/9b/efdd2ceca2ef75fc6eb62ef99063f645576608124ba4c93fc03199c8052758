@@ -1,0 +1,56 @@
+I"Á<p>The goal for this course is for students to become proficient in techniques from topological data analysis. We will cover both theory and applications and topics such as constructing filtrations, clustering, persistent homology, mapper, and many more. Take a look at this <a href="https://youtu.be/Z_M8R88wjCo">introduction video</a> for a quick overview. Here is the <a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/main.pdf">syllabus</a> for the course and here is an <a href="https://youtu.be/TlNVGFagPxU">introduction to the team</a>.</p>
+
+<p>More in-depth details on course topics can be found in the <a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/main.pdf">syllabus</a>. Communication outside of class time will function through the course gmail account, and the course Slack workspace (link to join). Exercises will be assigned via email and Slack, and updated in the Schedule section below, as well as in the Exercises folder.</p>
+
+<h3 id="office-hours">Office Hours</h3>
+<p>Alex McCleary will be offering office hours on Tuesdays from 1 to 2 and Wednesdays from 10 to 11 both in person and over zoom. Here is the <a href="https://osu.zoom.us/j/94770708980?pwd=L0VuazVabVhlaStRUlpWWHYrSDhidz09">zoom link</a>. To meet in person please come to math tower 546.</p>
+
+<p>Nate Clause will be offering office hours on Mondays from 3:30 to 4:30 and Thursdays from 12 to 1 both in person and over zoom. Here is the <a href="https://osu.zoom.us/j/94933302515?pwd=RE02N1daODVCazhMU3VwcnQ2TnFZZz09">zoom link</a>. To meet in person please come to math tower 549.</p>
+
+<h3 id="prerequisites">Prerequisites</h3>
+<p>Students should be familiar with the following concepts:</p>
+<ol>
+  <li>Linear Algebra:
+    <ul>
+      <li>Vector spaces, basis of a vector space, span of a set of elements. Sub-vector space. Direct sum.</li>
+      <li>Linear maps between vector spaces.</li>
+      <li>Dimension of a vector space.</li>
+      <li>Images and Kernels of linear maps.</li>
+      <li>Matrices, and matrix manipulations.</li>
+      <li>See <a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy</a> lessons for a review of these topics.</li>
+    </ul>
+  </li>
+  <li>Coding:
+    <ul>
+      <li>Basic familiarity with Matlab.</li>
+      <li>Foundational concepts such as if/else statements and for loops.</li>
+      <li>See the <a href="https://web.eecs.umich.edu/~aey/eecs451/matlab.pdf">Matlab tutorial</a> here.</li>
+    </ul>
+  </li>
+  <li>Other Concepts:
+    <ul>
+      <li>Definition of a metric space. Basic examples, familiarity with these concepts.</li>
+      <li>Inner products and norms.</li>
+      <li>See <a href="http://www-history.mcs.st-and.ac.uk/~john/MT4522/Lectures/L5.html">this</a> lecture for more details.</li>
+    </ul>
+  </li>
+  <li>Other Useful but non-Prerequisite Topics:
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Smith_normal_form">Normal forms</a> and <a href="https://en.wikipedia.org/wiki/Gaussian_elimination">Gaussian elimination</a>.</li>
+      <li>Basics of graph theory:
+        <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Graph_theory">Definition of a graph</a>.</li>
+          <li><a href="https://en.wikipedia.org/wiki/Component_(graph_theory)">Connected components</a>.</li>
+        </ul>
+      </li>
+      <li>Basic concepts about <a href="https://en.wikipedia.org/wiki/Cluster_analysis">clustering</a>.</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="required-software">Required Software</h4>
+<p>JavaPlex must be installed and students should start running the tutorial before the first day of class. The main interface for JavaPlex is Matlab. The JavaPlex software can be found <a href="http://appliedtopology.github.io/javaplex/">here</a>. The tutorial can be found at <a href="https://github.com/appliedtopology/javaplex/wiki/Tutorial">JavaPlex tutorial</a>. Matlab can be downloaded from the <a href="https://www.mathworks.com/products/matlab.html">Matlab website</a>.</p>
+
+<h3 id="acknowledgements">Acknowledgements</h3>
+<p>This course was developed by <a href="https://math.osu.edu/people/clause.15">Nate Clause</a>, <a href="https://www.alexmccleary.org">Alex McCleary</a>, <a href="http://facundo-memoli.org">Facundo MÃ©moli</a>, and <a href="http://yusu.belkin-wang.org">Yusu Wang</a>. Funding for this course is provided by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901360">NSF-IIS-1901360</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839358">NSF-CCF-1839358</a>.</p>
+:ET
