@@ -1,4 +1,4 @@
-I"N<p><strong>Week 0: Introduction</strong></p>
+I"d<p><strong>Week 0: Introduction</strong></p>
 
 <p>An introduction to the course including topics to be covered, expectations of students, basics of topology, and linear algebra review.</p>
 
@@ -34,7 +34,7 @@
   <li><a href="https://youtu.be/jR5OR05xYDY">Lecture part 1</a>, simplicial complexes</li>
   <li><a href="https://youtu.be/3YdbBVeBN3c">Lecture part 2</a>, simplicial maps</li>
   <li><a href="https://youtu.be/_-lE35xgV4o">Lecture part 3</a>, Rips and Cech complexes</li>
-  <li>[Slides][https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec2.pdf]</li>
+  <li><a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec2.pdf">Slides</a></li>
   <li><a href="https://youtu.be/Wz0wYwR67OA">Recitation part 1</a>, simplicial complexes and examples</li>
   <li><a href="https://youtu.be/mNOuL3DAb5U">Recitation part 2</a>, intro to JavaPlex and simplicial complexes in MATLAB</li>
 </ol>
@@ -47,7 +47,7 @@
   <li><a href="https://youtu.be/jYckBwhAYFs">Lecture part 1</a>, simplicial homology</li>
   <li><a href="https://youtu.be/XJvkc3FAUNw">Lecture part 2</a>, betti numbers</li>
   <li><a href="https://youtu.be/8qQwDGHfbIE">Lecture part 3</a>, computing homology</li>
-  <li>[Slides][https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec3.pdf]</li>
+  <li><a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec3.pdf">Slides</a></li>
   <li><a href="https://youtu.be/6_rQQY62Cxo">Recitation part 1</a>, review and examples</li>
   <li><a href="https://youtu.be/7P8Tg1T28EA">Recitation part 2</a>, homology with different coefficients</li>
   <li><a href="https://youtu.be/CkiolQfFBf4">Recitation part 3</a>, simplicial homology in JavaPlex</li>

@@ -37,7 +37,7 @@ Simplicial complexes, simplicial maps, filtrations, and computations.
 1. [Lecture part 1](https://youtu.be/jR5OR05xYDY), simplicial complexes
 2. [Lecture part 2](https://youtu.be/3YdbBVeBN3c), simplicial maps
 3. [Lecture part 3](https://youtu.be/_-lE35xgV4o), Rips and Cech complexes
-4. [Slides][https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec2.pdf]
+4. [Slides](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec2.pdf)
 5. [Recitation part 1](https://youtu.be/Wz0wYwR67OA), simplicial complexes and examples
 6. [Recitation part 2](https://youtu.be/mNOuL3DAb5U), intro to JavaPlex and simplicial complexes in MATLAB
 
@@ -48,7 +48,7 @@ The theory and computation of simplicial homology.
 1. [Lecture part 1](https://youtu.be/jYckBwhAYFs), simplicial homology
 2. [Lecture part 2](https://youtu.be/XJvkc3FAUNw), betti numbers
 3. [Lecture part 3](https://youtu.be/8qQwDGHfbIE), computing homology
-4. [Slides][https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec3.pdf]
+4. [Slides](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/lec3.pdf)
 1. [Recitation part 1](https://youtu.be/6_rQQY62Cxo), review and examples
 2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
 3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
