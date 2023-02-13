@@ -53,7 +53,7 @@ The theory and computation of simplicial homology.
 2. [Recitation part 2](https://youtu.be/7P8Tg1T28EA), homology with different coefficients
 3. [Recitation part 3](https://youtu.be/CkiolQfFBf4), simplicial homology in JavaPlex
 
-<!--**Week 4: Persistent Homology**
+**Week 4: Persistent Homology**
 
 1. [Lecture part 1](https://youtu.be/7uPD5QtbSYI), persistent homology
 2. [Lecture part 2](https://youtu.be/mbBsLek0b2o), the persistence algorithm
@@ -67,7 +67,7 @@ The theory and computation of simplicial homology.
 3. [Recitation part 1](https://youtu.be/3iNh-skAHgg)
 4. [Recitation part 2](https://youtu.be/eAPS4EVgCTM)
 
-**Week 6: Theoretical Foundations of Persistent Homology**
+<!--**Week 6: Theoretical Foundations of Persistent Homology**
 
 1. [Recitation part 1](https://youtu.be/Q-5ruUQ8cQI)
 2. [Recitation part 2](https://youtu.be/dlMj9k9QWsk)
