@@ -15,3 +15,8 @@ In order to process the shapes in this database we will have to use not only eff
 **Part 1**
 
 The first part of the project is about single linkage hierarchical clustering (SLHC). Students will code their own SLHC algorithms in Matlab. See this [video](https://youtu.be/p4-nKnKKKlM) for details.
+
+
+**Part 2**
+
+The second part of the project involves computing persistence diagrams as part of a larger shape classification project. See this [document](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/TDA%2BNeuro%20Project%20SP%202023/TDA_and_Neuro_Project-2.pdf) for details. The code for running the project can be found [here](https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/tree/master/TDA%2BNeuro%20Project%20SP%202023).
