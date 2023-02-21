@@ -1,0 +1,14 @@
+I"Y<p>By using ideas from persistent homology, we are going to analyze and try to discriminate the different classes (dogs, cats, gorillas, horses, etc) from the Non-Rigid World TOSCA database of 3D shapes.</p>
+
+<p>The project will expose students to several of the challenges that arise when working with data that could be noisy, or simply too large to process all at once. This database of shapes contains nearly 150 different shapes, each of which has a few thousand points.</p>
+
+<p>In order to process the shapes in this database we will have to use not only efficient subsampling methods, but we will also have to resort to  fast implementations of Ripser (the “live” version will not be practical). In particular, one of the initial steps of this project will be to install Ripser on your own computer (a step which will require compiling the C++ code).</p>
+
+<p><strong>Part 1</strong></p>
+
+<p>The first part of the project is about single linkage hierarchical clustering (SLHC). Students will code their own SLHC algorithms in Matlab. See this <a href="https://youtu.be/p4-nKnKKKlM">video</a> for details.</p>
+
+<p><strong>Part 2</strong></p>
+
+<p>The second part of the project involves computing persistence diagrams as part of a larger shape classification project. See this <a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/blob/master/TDA%2BNeuro%20Project%20SP%202023/TDA_and_Neuro_Project-2.pdf">document</a> for details. The code for running the project can be found <a href="https://github.com/TDA-and-Neuro/tda-and-neuro.github.io/tree/master/TDA%2BNeuro%20Project%20SP%202023">here</a>.</p>
+:ET
