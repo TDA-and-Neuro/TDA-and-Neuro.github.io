@@ -67,11 +67,14 @@ The theory and computation of simplicial homology.
 3. [Recitation part 1](https://youtu.be/3iNh-skAHgg)
 4. [Recitation part 2](https://youtu.be/eAPS4EVgCTM)
 
-<!--**Week 6: Theoretical Foundations of Persistent Homology**
+**Week 6: Theoretical Foundations of Persistent Homology**
 
+1. [Lecture part 1](https://youtu.be/BNjMofLWi9o), the algebraic decomposition theorem
+2. [Lecture part 2](https://youtu.be/IhXCyUMCWDs), the bottleneck stability theorem
 1. [Recitation part 1](https://youtu.be/Q-5ruUQ8cQI)
 2. [Recitation part 2](https://youtu.be/dlMj9k9QWsk)
 
+<!--
 **Week 7: Extensions of Persistent Homology**
 
 1. [Recitation part 1](https://youtu.be/5mPJqLDhHBo)
