@@ -74,9 +74,19 @@ The theory and computation of simplicial homology.
 1. [Recitation part 1](https://youtu.be/Q-5ruUQ8cQI)
 2. [Recitation part 2](https://youtu.be/dlMj9k9QWsk)
 
-<!--
 **Week 7: Extensions of Persistent Homology**
 
-1. [Recitation part 1](https://youtu.be/5mPJqLDhHBo)
-2. [Recitation part 2](https://youtu.be/7qi_TMDYk8M)
-3. [Recitation part 3](https://youtu.be/I1DBGED1fvE) -->
+1. [Lecture part 1](https://youtu.be/0vv7jpfRx7U), multiparameter persistent homology
+2. [Lecture part 2](https://youtu.be/1B5_9V_YfuM), invariants for multiparameter persistent homology
+3. [Recitation part 1](https://youtu.be/5mPJqLDhHBo)
+4. [Recitation part 2](https://youtu.be/7qi_TMDYk8M)
+5. [Recitation part 3](https://youtu.be/I1DBGED1fvE)
+
+**Week 8: Visualization and Interpretation**
+
+1. [Lecture](https://youtu.be/6YYZOBzUZUw)
+2. [Recitation](https://youtu.be/RLJ58BQOI_0)
+
+**Week 9: Neuroscience Background**
+
+1. [Lecture](https://youtu.be/u-sabOOls0Y) place cells, place fields, and the nerve lemma
